@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Easy Japanese/My-Travels/app/src/debug/res/values/google_maps_api.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/AH2019/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/AH2019/app/src/main/java/com/example/vnpchallenge/dao/OrderDAO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/AH2019/app/src/main/java/com/example/vnpchallenge/database/AppDatabase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/AH2019/app/src/main/java/com/example/vnpchallenge/model/Order.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/AH2019/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
